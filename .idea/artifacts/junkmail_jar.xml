@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="junkmail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/junkmail_jar</output-path>
+    <root id="archive" name="junkmail.jar">
+      <element id="module-output" name="junkmail" />
+      <element id="extracted-dir" path="D:/My Idea/learning/mcplugin/Lib/spigot-api-1.19.4-R0.1-20230412.211242-57-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

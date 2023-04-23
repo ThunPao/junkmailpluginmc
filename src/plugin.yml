@@ -1,0 +1,9 @@
+name: Mailbox
+version: 1.0.0
+main: me.mpz.junkmail.Main
+author: I3a0
+description: A plugin that allows players to store and execute commands
+commands:
+  mailbox:
+    description: View and execute stored commands
+    usage: /mailbox [store <player> <command>|execute <player>]

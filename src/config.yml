@@ -1,0 +1,18 @@
+mysql:
+  host: localhost
+  port: 3306
+  database: owlbox_db
+  username: root
+  password: your_password
+  ssl: false
+
+mailbox-title: "§0Junk Mail"
+
+display-item:
+  type: PAPER
+  amount: 1
+  name: "&fMail"
+  lore:
+    - "&7Click to view mailbox"
+
+slots-per-page: 21
